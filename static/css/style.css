@@ -1,0 +1,15 @@
+body {
+    font-family: 'Dosis', sans-serif;
+    font-family: 'Libre Franklin', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Rubik', sans-serif;
+    background-color: black;
+}
+
+.bg-black{
+    background-color: black;
+}
+
+.skill-section  .card-img-top{
+    height: 150px;
+}
